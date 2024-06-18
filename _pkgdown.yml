@@ -1,0 +1,7 @@
+url: https://mojaveazure.github.io/pbmc3k/
+destination: docs
+template:
+  params:
+    bootswatch: flatly
+development:
+  mode: auto

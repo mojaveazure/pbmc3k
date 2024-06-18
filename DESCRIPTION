@@ -1,0 +1,36 @@
+Package: pbmc3k
+Title: Raw and Processed Matrices of the PBMC 3k Dataset
+Version: 0.1.0
+Authors@R: c(
+  person(
+    given = "Paul",
+    family = "Hoffman",
+    email = "hoff0792@alumni.umn.edu",
+    role = c("aut", "cre"),
+    comment = c(ORCID = "0000-0002-7693-8957")
+  ),
+  person("10x Genomics, Inc.",  role = "cph")
+  )
+Description: What the package does (one paragraph).
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(
+  rd_family_title = list(
+    seurat = "Seurat-processed matrices:",
+    sce = "Bioconductor-processed matrices:",
+    raw = "Raw, filtered matrices:",
+    norm = "Log-normalized matrices:"
+  )
+  )
+RoxygenNote: 7.3.1
+Depends:
+    Matrix
+Suggests:
+    rprojroot,
+    stats
+Enhances:
+    scuttle,
+    Seurat,
+    SeuratObject,
+    SingleCellExperiment
+URL: https://mojaveazure.github.io/pbmc3k/
