@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/404.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/reference/pbmc3k-package.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/reference/pbmc3k.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/reference/pbmc3k.sce.logcounts.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/reference/pbmc3k.seurat.counts.html</loc>
+  </url>
+  <url>
+    <loc>https://mojaveazure.github.io/pbmc3k/reference/pbmc3k.seurat.norm.html</loc>
+  </url>
+</urlset>
